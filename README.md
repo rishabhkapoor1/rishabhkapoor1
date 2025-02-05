@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rishabhkapoor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhkapoor1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishabhkapoor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhkapoor1" height="30" width="40" /></a>
- <a href="https://www.geeksforgeeks.org/user/rishabhkafhwo/" target="blank"><img align="center" src="https://images.app.goo.gl/YTDNZhuCQ2FmRTst9" alt="rishabhkapoor1" height="30" width="40" /></a>
+ <a href="https://www.geeksforgeeks.org/user/rishabhkafhwo/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="rishabhkapoor1" height="30" width="40" /></a>
 
 </p>
 
